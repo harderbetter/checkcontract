@@ -13,6 +13,9 @@ SolidiFI-benchmark repository contains a dataset of buggy contracts injected by 
 In addition to the dataset of the vulnerable contracts, the repository contains the injection logs that can be used to refrence the injection locations, where the bugs have been injected in the code, and the type of each bug.
 
 Comparable tools:
+
 Vandal: https://github.com/usyd-blockchain/vandal
+
 Oyente: https://github.com/enzymefinance/oyente
+
 Mythril: https://github.com/ConsenSys/mythril
